@@ -1,1 +1,4 @@
 *.sqlite*
+/public/storage
+/public/build
+/storage/*.key
